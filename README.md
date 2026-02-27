@@ -23,4 +23,4 @@ python monitor.py
 
 ## 📸 Resultado
 
-![resultado](screenshot.jpg)
+![resultado](Screenshot.jpg)
